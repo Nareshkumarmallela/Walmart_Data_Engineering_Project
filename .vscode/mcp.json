@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "datamate": {
+      "type": "stdio",
+      "command": "C:\\Users\\nares\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+      "args": [
+        "c:\\Users\\nares\\.vscode\\extensions\\altimateai.vscode-altimate-mcp-server-0.11.0-win32-x64\\dist\\datamate-cli.js",
+        "start-stdio"
+      ],
+      "env": {
+        "ALTIMATE_EXTENSION_RPC": "\\\\.\\pipe\\altimate-mcp-28356",
+        "ELECTRON_RUN_AS_NODE": "1"
+      },
+      "updatedAt": "2026-10-01T03:18:07.883Z"
+    }
+  }
+}
