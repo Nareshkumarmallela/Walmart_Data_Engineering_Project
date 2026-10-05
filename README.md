@@ -1,4 +1,4 @@
-# Walmart Data Engineer Project
+# Walmart Data Engineering Project
 
 This project implements an end-to-end data engineering workflow for ingesting, transforming, testing, and orchestrating Walmart retail data across PostgreSQL, Databricks, and dbt. It models a modern medallion architecture with CDC-based incremental ingestion, curated silver layers, and analytics-ready gold tables.
 
